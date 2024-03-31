@@ -48,3 +48,7 @@ let cars = ["toyota", "honda", "hyundai", "sakura", 6, true]
 // console.log(cars[2])  // hyundai
 // console.log(cars[4])  // number 6
 console.log(cars.length)
+
+
+// Some new code - @Sheysi 
+console.log("This is a newly added line of code")
